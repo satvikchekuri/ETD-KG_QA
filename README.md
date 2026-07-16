@@ -24,14 +24,15 @@ This repository contains the code and data for our paper, *Structured Knowledge 
 
 The `Data/` folder contains the dataset files used to build the ETD knowledge graph and also the user study results.
 
+| File / Folder | Description |
+|---|---|
 | `userstudy_answers.csv` | User study question and answer pairs. 8 QA pairs per department (total 4) per method (3 methods, which include 2 baselines). Total 96 QA pairs. |
 | `User_Study_Results_External.xlsx` | User study results, which record participants' selections. |
-| `data.tar.gz` | After unzipping, you will find below 4 files:
-
-  | `processed_data_26k_etd_enriched.csv` | 26K ETD metadata |
-  | `etd_figures.csv` | Figure captions extracted from 26K ETDs |
-  | `etd_tables.csv` | Table captions extracted from 26K ETDs |
-  | `26k_etd_as_classified.csv` | Abstract sentences classification label for all 26K ETDs |
+| `data.tar.gz` | After unzipping, you will find below 4 files: |
+| `processed_data_26k_etd_enriched.csv` | 26K ETD metadata |
+| `etd_figures.csv` | Figure captions extracted from 26K ETDs |
+| `etd_tables.csv` | Table captions extracted from 26K ETDs |
+| `26k_etd_as_classified.csv` | Abstract sentences classification label for all 26K ETDs |
 
 ## Setup
 
