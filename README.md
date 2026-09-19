@@ -1,6 +1,6 @@
 # Structured Knowledge Graph for Scholarly Exploration: IR and QA System for ETDs and their Elements
 
-This repository contains the code and data for our paper, *Structured Knowledge Graph for Scholarly Exploration: IR and QA System for ETDs and their Elements*.
+This repository contains the code and data for our paper, *Structured Knowledge Graph for Scholarly Exploration: IR and QA System for ETDs and their Elements*. (Accepted ACM/IEEE JCDL'26)
 
 ## Repository Structure
 
